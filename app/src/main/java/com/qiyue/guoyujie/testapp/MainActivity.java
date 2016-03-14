@@ -13,5 +13,8 @@ public class MainActivity extends AppCompatActivity {
         //测试GitHub提交代码！
         TextView textView = (TextView) findViewById(R.id.first);
         TextView textViewSecond = (TextView) findViewById(R.id.second);
+
+        //this is a apple !
+        //yes or not ?
     }
 }

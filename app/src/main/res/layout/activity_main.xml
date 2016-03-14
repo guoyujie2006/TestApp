@@ -15,6 +15,7 @@
         android:layout_height="wrap_content"
         android:background="#999"
         android:textSize="20sp"
+
         android:text="This is the first Application World!" />
     <TextView
         android:id="@+id/second"
