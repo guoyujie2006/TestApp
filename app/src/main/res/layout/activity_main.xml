@@ -21,7 +21,8 @@
         android:layout_below="@+id/first"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:background="#999"
+        android:paddingTop="10dp"
+        android:background="#dd0"
         android:textSize="20sp"
         android:text="This is a testing Application World!" />
 </RelativeLayout>
